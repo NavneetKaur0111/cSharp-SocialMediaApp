@@ -1,0 +1,16 @@
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\oop\Exam\bin\Debug\net5.0\Exam.exe
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\oop\Exam\bin\Debug\net5.0\Exam.deps.json
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\oop\Exam\bin\Debug\net5.0\Exam.runtimeconfig.json
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\oop\Exam\bin\Debug\net5.0\Exam.runtimeconfig.dev.json
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\oop\Exam\bin\Debug\net5.0\Exam.dll
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\oop\Exam\bin\Debug\net5.0\ref\Exam.dll
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\oop\Exam\bin\Debug\net5.0\Exam.pdb
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\oop\Exam\obj\Debug\net5.0\Exam.csprojAssemblyReference.cache
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\oop\Exam\obj\Debug\net5.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\oop\Exam\obj\Debug\net5.0\Exam.AssemblyInfoInputs.cache
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\oop\Exam\obj\Debug\net5.0\Exam.AssemblyInfo.cs
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\oop\Exam\obj\Debug\net5.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\oop\Exam\obj\Debug\net5.0\Exam.dll
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\oop\Exam\obj\Debug\net5.0\ref\Exam.dll
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\oop\Exam\obj\Debug\net5.0\Exam.pdb
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\oop\Exam\obj\Debug\net5.0\Exam.genruntimeconfig.cache
